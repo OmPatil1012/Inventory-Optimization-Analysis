@@ -1,17 +1,17 @@
-# 📦 Inventory Optimization Analysis
+#  Inventory Optimization Analysis
 
 **Tools Used:** SQL (PostgreSQL/MySQL), Microsoft Excel, Power BI  
 **Project Type:** Data Analysis | Inventory Management | Business Intelligence  
 
 ---
 
-## 🔍 Objective
+##  Objective
 
 To optimize inventory levels by identifying overstocked and understocked products, improving reorder point calculations, and visualizing key inventory metrics for better decision-making.
 
 ---
 
-## 📊 Dataset Structure (Simulated)
+##  Dataset Structure (Simulated)
 
 - **products**: product_id, product_name, category, unit_price  
 - **inventory**: product_id, stock_quantity, reorder_level, supplier_id  
@@ -20,7 +20,7 @@ To optimize inventory levels by identifying overstocked and understocked product
 
 ---
 
-## 🔧 Steps & Tools
+##  Steps & Tools
 
 ### 1. SQL Analysis
 
@@ -56,7 +56,7 @@ To optimize inventory levels by identifying overstocked and understocked product
 
 ---
 
-## ✅ Results
+##  Results
 
 - Reduced holding costs by 18%
 - Improved stock availability for high-demand items
@@ -64,7 +64,7 @@ To optimize inventory levels by identifying overstocked and understocked product
 
 ---
 
-## 📁 Repository Contents
+##  Repository Contents
 
 | Folder      | Description                              |
 |-------------|------------------------------------------|
@@ -74,7 +74,7 @@ To optimize inventory levels by identifying overstocked and understocked product
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Feel free to fork or contribute!  
 **Author:** [Your Name] | [LinkedIn](#) | [Portfolio](#)

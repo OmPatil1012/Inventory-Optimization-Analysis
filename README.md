@@ -72,11 +72,6 @@ To optimize inventory levels by identifying overstocked and understocked product
 | `excel/`    | Excel logic explanation                  |
 | `dashboard/`| Power BI dashboard components            |
 
----
 
-##  Contact
-
-Feel free to fork or contribute!  
-**Author:** [Your Name] | [LinkedIn](#) | [Portfolio](#)
 
 
